@@ -1,0 +1,1 @@
+redirecting fileconetnt  to stdout
